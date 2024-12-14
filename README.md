@@ -14,7 +14,11 @@ Technology Used : HTML & CSS
 
 Output : 
 ![image alt](https://github.com/ayushmoudekar/Tech-Central-Conference-Website/blob/d84641f3c5b769e0d871dd27325c9da21d23ac11/Output/Output%201.png)
+
 ![image alt](https://github.com/ayushmoudekar/Tech-Central-Conference-Website/blob/d84641f3c5b769e0d871dd27325c9da21d23ac11/Output/Output%202.png)
+
 ![image alt](https://github.com/ayushmoudekar/Tech-Central-Conference-Website/blob/d84641f3c5b769e0d871dd27325c9da21d23ac11/Output/Output%203.png)
+
 ![image alt](https://github.com/ayushmoudekar/Tech-Central-Conference-Website/blob/d84641f3c5b769e0d871dd27325c9da21d23ac11/Output/Output%204.png)
+
 ![image alt](https://github.com/ayushmoudekar/Tech-Central-Conference-Website/blob/d84641f3c5b769e0d871dd27325c9da21d23ac11/Output/Output%205.png)
